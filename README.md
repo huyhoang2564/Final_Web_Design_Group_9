@@ -37,7 +37,7 @@
 
         ***
 
-         ![Beauty's Blog page](e:\WebDesign_22VNUK\Final_Web_Design_Group_9\Beauty Blog.png)
+         ![Beauty's Blog page]([e:\WebDesign_22VNUK\Final_Web_Design_Group_9\Beauty Blog.png](https://github.com/huyhoang2564/Final_Web_Design_Group_9/blob/main/Beauty%20Blog.png))
 
 
 
